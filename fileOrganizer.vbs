@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "E:\Projects\SpeechRecognition\fileOrganizer.bat", 0, True
